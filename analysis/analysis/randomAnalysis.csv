@@ -1,0 +1,21 @@
+dataSet_random,accuracy_random
+kyphosis,80
+breast_cancer,95
+iris,100
+biomechanical-feature-of-orthopedic-patient, 83.9
+carvan-insurance-chalange,52.5
+faulty-steel-plates,83
+glass-classification,83.7
+indian-liver-patient,100
+mushroom-classification,100
+pima-indian-diabetes,74.5
+horse-colic,70
+pokeman,96.3
+uci-credit-card,81.6
+zoo-animal-classification,95
+red-wine,66.7
+wall-fllowing-robot,99.4
+bank-marketing,91.4
+student-alcohol-consumption,65.9
+gender-classification,50.6
+german-credit-card,47.6
